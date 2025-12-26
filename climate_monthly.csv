@@ -1,0 +1,241 @@
+﻿state,month,avg_rainfall_mm,avg_temperature_c
+Niger,January,5,27
+Niger,February,8,28
+Niger,March,15,30
+Niger,April,40,31
+Niger,May,80,30
+Niger,June,110,28
+Niger,July,120,27
+Niger,August,110,27
+Niger,September,90,28
+Niger,October ,40,29
+Niger,November,10,28
+Niger,December,3,27
+Kaduna,January,5,27
+Kaduna,February,8,28
+Kaduna,March,15,30
+Kaduna,April,45,31
+Kaduna,May,85,30
+Kaduna,June,115,28
+Kaduna,July,125,27
+Kaduna,August,115,27
+Kaduna,September,95,28
+Kaduna,October ,45,29
+Kaduna,November,12,28
+Kaduna,December,4,27
+Kwara,January,3,27
+Kwara,February,5,28
+Kwara,March,12,30
+Kwara,April,35,31
+Kwara,May,75,30
+Kwara,June,105,28
+Kwara,July,115,27
+Kwara,August,105,27
+Kwara,September,85,28
+Kwara,October ,35,29
+Kwara,November,8,28
+Kwara,December,2,27
+Plateau,January,2,26
+Plateau,February,4,27
+Plateau,March,10,28
+Plateau,April,33,29
+Plateau,May,70,28
+Plateau,June,100,26
+Plateau,July,110,25
+Plateau,August,100,25
+Plateau,September,80,26
+Plateau,October ,33,27
+Plateau,November,7,27
+Plateau,December,1,26
+Nasarawa,January,2,27
+Nasarawa,February,4,28
+Nasarawa,March,10,30
+Nasarawa,April,38,31
+Nasarawa,May,78,30
+Nasarawa,June,108,28
+Nasarawa,July,118,27
+Nasarawa,August,108,27
+Nasarawa,September,88,28
+Nasarawa,October ,38,29
+Nasarawa,November,8,28
+Nasarawa,December,2,27
+Kano,January,1,29
+Kano,February,2,30
+Kano,March,5,32
+Kano,April,12,33
+Kano,May,45,32
+Kano,June,80,30
+Kano,July,90,29
+Kano,August,85,29
+Kano,September,60,30
+Kano,October ,18,31
+Kano,November,5,30
+Kano,December,1,29
+Katsina,January,1,29
+Katsina,February,2,30
+Katsina,March,5,32
+Katsina,April,12,33
+Katsina,May,42,32
+Katsina,June,75,30
+Katsina,July,85,29
+Katsina,August,80,29
+Katsina,September,55,30
+Katsina,October ,17,31
+Katsina,November,5,30
+Katsina,December,1,29
+Jigawa,January,1,29
+Jigawa,February,2,30
+Jigawa,March,5,32
+Jigawa,April,12,33
+Jigawa,May,40,32
+Jigawa,June,70,30
+Jigawa,July,80,29
+Jigawa,August,75,29
+Jigawa,September,50,30
+Jigawa,October ,15,31
+Jigawa,November,4,30
+Jigawa,December,1,29
+Sokoto,January,1,29
+Sokoto,February,2,30
+Sokoto,March,5,32
+Sokoto,April,10,33
+Sokoto,May,35,32
+Sokoto,June,65,30
+Sokoto,July,75,29
+Sokoto,August,70,29
+Sokoto,September,45,30
+Sokoto,October ,12,31
+Sokoto,November,3,30
+Sokoto,December,1,29
+Zamfara,January,1,29
+Zamfara,February,2,30
+Zamfara,March,5,32
+Zamfara,April,12,33
+Zamfara,May,40,32
+Zamfara,June,70,30
+Zamfara,July,80,29
+Zamfara,August,75,29
+Zamfara,September,50,30
+Zamfara,October ,15,31
+Zamfara,November,4,30
+Zamfara,December,1,29
+Benue,January,3,26
+Benue,February,5,27
+Benue,March,12,29
+Benue,April,40,30
+Benue,May,85,29
+Benue,June,120,27
+Benue,July,135,26
+Benue,August,125,26
+Benue,September,95,27
+Benue,October ,40,28
+Benue,November,10,27
+Benue,December,2,26
+Kogi,January,3,27
+Kogi,February,5,28
+Kogi,March,12,30
+Kogi,April,38,31
+Kogi,May,80,30
+Kogi,June,115,28
+Kogi,July,130,27
+Kogi,August,120,27
+Kogi,September,90,28
+Kogi,October ,38,29
+Kogi,November,8,28
+Kogi,December,2,27
+Taraba,January,2,27
+Taraba,February,4,28
+Taraba,March,10,30
+Taraba,April,35,31
+Taraba,May,75,30
+Taraba,June,110,28
+Taraba,July,125,27
+Taraba,August,115,27
+Taraba,September,85,28
+Taraba,October ,35,29
+Taraba,November,7,28
+Taraba,December,1,27
+Adamawa,January,2,28
+Adamawa,February,3,29
+Adamawa,March,8,31
+Adamawa,April,30,32
+Adamawa,May,70,31
+Adamawa,June,105,29
+Adamawa,July,120,28
+Adamawa,August,110,28
+Adamawa,September,80,29
+Adamawa,October ,30,30
+Adamawa,November,6,29
+Adamawa,December,1,28
+Oyo,January,5,27
+Oyo,February,8,28
+Oyo,March,15,30
+Oyo,April,45,31
+Oyo,May,100,30
+Oyo,June,130,28
+Oyo,July,145,27
+Oyo,August,135,27
+Oyo,September,100,28
+Oyo,October ,45,29
+Oyo,November,15,28
+Oyo,December,6,27
+Ogun,January,6,27
+Ogun,February,8,28
+Ogun,March,15,30
+Ogun,April,50,31
+Ogun,May,110,30
+Ogun,June,140,28
+Ogun,July,155,27
+Ogun,August,145,27
+Ogun,September,110,28
+Ogun,October ,50,29
+Ogun,November,15,28
+Ogun,December,6,27
+Ondo,January,8,26
+Ondo,February,10,27
+Ondo,March,18,29
+Ondo,April,55,30
+Ondo,May,120,29
+Ondo,June,150,27
+Ondo,July,170,26
+Ondo,August,160,26
+Ondo,September,130,27
+Ondo,October ,55,28
+Ondo,November,18,27
+Ondo,December,8,26
+Osun,January,4,27
+Osun,February,7,28
+Osun,March,14,30
+Osun,April,42,31
+Osun,May,95,30
+Osun,June,125,28
+Osun,July,140,27
+Osun,August,130,27
+Osun,September,95,28
+Osun,October ,42,29
+Osun,November,10,28
+Osun,December,3,27
+Edo,January,8,26
+Edo,February,10,27
+Edo,March,18,29
+Edo,April,58,30
+Edo,May,125,29
+Edo,June,155,27
+Edo,July,170,26
+Edo,August,160,26
+Edo,September,130,27
+Edo,October ,58,28
+Edo,November,18,27
+Edo,December,8,26
+Cross River,January,15,26
+Cross River,February,18,27
+Cross River,March,25,29
+Cross River,April,75,30
+Cross River,May,150,29
+Cross River,June,200,27
+Cross River,July,220,26
+Cross River,August,210,26
+Cross River,September,180,27
+Cross River,October ,75,28
+Cross River,November,25,27
+Cross River,December,15,26

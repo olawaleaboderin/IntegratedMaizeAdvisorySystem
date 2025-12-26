@@ -1,0 +1,86 @@
+﻿S/N,variety_name,maturity_group,drought_tolerance,low_n_tolerance,adaptation_zone,yield_potential,grain_type
+1,SAMMAZ 30,intermediate ,medium ,high,Northern Guinea Savanna,5.0,semi dent
+2,SAMMAZ 31,intermediate ,medium ,high,Northern Guinea Savanna,5.0,semi dent
+3,SAMMAZ 22,extra‑early,high,high,Northern Guinea Savanna,7.5,semi flint
+4,SAMMAZ 23,extra‑early,high,high,Northern Guinea Savanna,4.0,semi dent
+5,SAMMAZ 24,extra‑early,high,high,Northern Guinea Savanna,4.0,semi dent
+6,SAMMAZ 25,extra‑early,high,high,Northern Guinea Savanna,3.5,flint
+7,Oba Super 3,intermediate ,high,medium,Sudan Savanna,7.5,flint
+8,Oba Super 4,late,medium ,low,Sudan Savanna,7.5,semi dent
+9,Oba Super 5,intermediate ,high,medium,Sudan Savanna,8.5,flint
+10,Oba Super 6,extra‑early,high,high,Sudan Savanna,7.5,dent
+11,Oba Super 7,extra‑early,high,high,Sudan Savanna,4.0,semi dent
+12,Oba Super 9,late,medium ,low,Northern Guinea Savanna,5.0,dent
+13,SAMMAZ 32,early,medium ,low,Northern Guinea Savanna,4.3,semi flint
+14,SAMMAZ 33,early,high,medium,Southern Guinea Savanna,3.9,semi flint
+15,SAMMAZ 34,late,medium ,low,Southern Guinea Savanna,4.7,dent
+16,SAMMAZ 37,intermediate ,high,medium,Northern Guinea Savanna,5.9,dent
+17,Ife Maizehyb‑1,late,medium ,low,Northern Guinea Savanna,6.0,dent
+18,Ife Maizehyb‑2,late,medium ,low,Northern Guinea Savanna,6.7,semi dent
+19,Ife Maizehyb‑3 (SC510),late,medium ,low,Northern Guinea Savanna,6.7,semi flint
+20,Ife Maizehyb‑4,late,medium ,low,Northern Guinea Savanna,6.7,dent
+21,SNK2778,late,medium ,low,Northern Guinea Savanna,8.4,semi flint
+22,SAMMAZ 38,late,medium ,low,Northern Guinea Savanna,6.4,semi flint
+23,SAMMAZ 39,late,medium ,low,Northern Guinea Savanna,6.8,semi flint
+24,SAMMAZ 40,intermediate ,high,medium,Northern Guinea Savanna,7.1,semi dent
+25,SC719,late,medium ,low,Southern Guinea Savanna,12.0,semi flint
+26,30Y87,late,medium ,low,Northern Guinea Savanna,12.0,dent
+27,30F32,late,medium ,high,Southern Guinea Savanna,9.0,semi dent
+28,P48W01 IR,late,medium ,high,Southern Guinea Savanna,5.0,dent
+29,P48W03 IR,late,medium ,high,Northern Guinea Savanna,4.5,dent
+30,SAMMAZ 41,early,medium ,high,Northern Guinea Savanna,7.8,dent
+31,SAMMAZ 42,early,medium ,high,Northern Guinea Savanna,7.8,dent
+32,SAMMAZ 43,late,medium ,high,Northern Guinea Savanna,9.9,semi flint
+33,SAMMAZ 44,late,medium ,high,Northern Guinea Savanna,9.7,semi dent
+34,SAMMAZ 45,early,medium ,high,Rainforest,10.0,dent
+35,SC667,early,medium ,high,Rainforest,8.5,dent
+36,SC419,early,high,high,Rainforest,10.0,semi dent
+37,SAMMAZ 70,extra‑early,medium ,high,Rainforest,7.6,dent
+38,Oba Super 8,intermediate ,high,high,Rainforest,8.5,flint
+39,VSL 2201,early,medium ,high,Rainforest,8.4,semi flint
+40,PAC 740,early,low,high,Rainforest,8.5,dent
+41,SC 423,early,low,high,Rainforest,10.0,semi dent
+42,SC 555,early,low,high,Rainforest,8.0,dent
+43,SAMMAZ 72T,intermediate ,high,medium,Sudan Savanna,7.5,dent
+44,SAMMAZ 73T,intermediate ,high,medium,Sudan Savanna,7.5,dent
+45,SAMMAZ 74T,intermediate ,high,medium,Sudan Savanna,7.5,flint
+46,SAMMAZ 75T,intermediate ,high,medium,Sudan Savanna,7.5,dent
+47,ILOMAZ 1,early,low,high,Southern Guinea Savanna,6.6,flint
+48,ILOMAZ 2,late,medium ,low,Southern Guinea Savanna,10.0,dent
+49,ILOMAZ 3,late,medium ,low,Southern Guinea Savanna,8.5,semi flint
+50,Oba Super 3,early,low,high,Sudan Savanna,7.5,dent
+51,Oba Super 5,intermediate ,high,medium,Sudan Savanna,8.9,semi flint
+52,Oba Super 6,intermediate ,high,high,Southern Guinea Savanna,7.5,flint
+53,Oba Super 7,intermediate ,high,high,Sudan Savanna,4.0,semi flint
+54,Oba Super 15,intermediate ,high,medium,Northern Guinea Savanna,9.5,semi dent
+55,Oba Super 17,intermediate ,high,medium,Northern Guinea Savanna,9.7,semi flint
+56,SAMMAZ 32,extra‑early,low,high,Southern Guinea Savanna,4.3,semi dent
+57,SAMMAZ 33,extra‑early,high,medium,Southern Guinea Savanna,3.9,semi flint
+58,SAMMAZ 34,early,low,medium,Southern Guinea Savanna,4.7,semi flint
+59,SAMMAZ 43,early,low,medium,Northern Guinea Savanna,9.9,semi flint
+60,SAMMAZ 44,early,low,medium,Northern Guinea Savanna,9.7,flint
+61,SAMMAZ 59,early,low,medium,Rainforest,5.0,dent
+62,SAMMAZ 60,early,low,medium,Rainforest,5.0,flint
+63,SAMMAZ 61,early,low,medium,Rainforest,8.0,semi flint
+64,SAMMAZ 62,early,low,medium,Rainforest,8.0,semi dent
+65,SAMMAZ 63,early,low,medium,Rainforest,8.0,semi flint
+66,SAMMAZ 66,late,high,medium,Southern Guinea Savanna,8.4,flint
+67,SAMMAZ 67,early,low,medium,Southern Guinea Savanna,9.7,flint
+68,SAMMAZ 68,early,low,medium,Northern Guinea Savanna,8.7,dent
+69,SAMMAZ 72T,late,high,medium,Sudan Savanna,10.0,semi dent
+70,SAMMAZ 73T,late,high,medium,Sudan Savanna,10.0,semi dent
+71,SAMMAZ 74T,late,high,medium,Sudan Savanna,10.2,flint
+72,SAMMAZ 75T,late,high,low,Sudan Savanna,10.2,dent
+73,SC667,early,low,medium,Southern Guinea Savanna,10.0,semi flint
+74,SC419,early,high,high,Rainforest,8.0,semi flint
+75,HAKIMI 1,early,low,medium,Northern Guinea Savanna,7.4,dent
+76,HAKIMI 2,extra‑early,low,low,Southern Guinea Savanna,8.1,semi flint
+77,HAKIMI 3,extra‑early,low,low,Northern Guinea Savanna,10.0,dent
+78,ZUMA 500,extra‑early,low,low,Rainforest,7.4,flint
+79,ZUMA 450,extra‑early,low,low,Rainforest,6.5,dent
+80,AMANA‑1,extra‑early,low,low,Southern Guinea Savanna,9.5,dent
+81,AMANA‑2,extra‑early,low,low,Southern Guinea Savanna,7.7,dent
+82,DKB350,late,medium ,low,Rainforest,9.5,dent
+83,WE3205,early,medium ,low,Rainforest,7.9,semi flint
+84,P4226,extra‑early,low,low,Southern Guinea Savanna,8.0,dent
+85,P4063W,extra‑early,low,low,Southern Guinea Savanna,8.1,dent

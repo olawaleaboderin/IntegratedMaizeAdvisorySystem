@@ -1,0 +1,61 @@
+﻿state,Total_N,Available_P,Exchangeable_K,soil_level
+Niger,< 0.10 ,< 8 ,< 0.15 ,Low
+Niger,0.10 – 0.20 ,8 – 15 ,0.15 – 0.30 ,Medium
+Niger,> 0.20 ,> 15 ,> 0.30 ,High
+Kaduna,< 0.10 ,< 8 ,< 0.15 ,Low
+Kaduna,0.10 – 0.20 ,8 – 15 ,0.15 – 0.30 ,Medium
+Kaduna,> 0.20 ,> 15 ,> 0.30 ,High
+Kwara,< 0.10 ,< 8 ,< 0.15 ,Low
+Kwara,0.10 – 0.20 ,8 – 15 ,0.15 – 0.30 ,Medium
+Kwara,> 0.20 ,> 15 ,> 0.30 ,High
+Plateau,< 0.10 ,< 8 ,< 0.15 ,Low
+Plateau,0.10 – 0.20 ,8 – 15 ,0.15 – 0.30 ,Medium
+Plateau,> 0.20 ,> 15 ,> 0.30 ,High
+Nasarawa,< 0.10 ,< 8 ,< 0.15 ,Low
+Nasarawa,0.10 – 0.20 ,8 – 15 ,0.15 – 0.30 ,Medium
+Nasarawa,> 0.20 ,> 15 ,> 0.30 ,High
+Kano,< 0.10 ,< 8 ,< 0.15 ,Low
+Kano,0.10 – 0.20 ,8 – 15 ,0.15 – 0.30 ,Medium
+Kano,> 0.20 ,> 15 ,> 0.30 ,High
+Katsina,< 0.10 ,< 8 ,< 0.15 ,Low
+Katsina,0.10 – 0.20 ,8 – 15 ,0.15 – 0.30 ,Medium
+Katsina,> 0.20 ,> 15 ,> 0.30 ,High
+Jigawa,< 0.10 ,< 8 ,< 0.15 ,Low
+Jigawa,0.10 – 0.20 ,8 – 15 ,0.15 – 0.30 ,Medium
+Jigawa,> 0.20 ,> 15 ,> 0.30 ,High
+Sokoto,< 0.10 ,< 8 ,< 0.15 ,Low
+Sokoto,0.10 – 0.20 ,8 – 15 ,0.15 – 0.30 ,Medium
+Sokoto,> 0.20 ,> 15 ,> 0.30 ,High
+Zamfara,< 0.10 ,< 8 ,< 0.15 ,Low
+Zamfara,0.10 – 0.20 ,8 – 15 ,0.15 – 0.30 ,Medium
+Zamfara,> 0.20 ,> 15 ,> 0.30 ,High
+Benue,< 0.10 ,< 8 ,< 0.15 ,Low
+Benue,0.10 – 0.20 ,8 – 15 ,0.15 – 0.30 ,Medium
+Benue,> 0.20 ,> 15 ,> 0.30 ,High
+Kogi,< 0.10 ,< 8 ,< 0.15 ,Low
+Kogi,0.10 – 0.20 ,8 – 15 ,0.15 – 0.30 ,Medium
+Kogi,> 0.20 ,> 15 ,> 0.30 ,High
+Taraba,< 0.10 ,< 8 ,< 0.15 ,Low
+Taraba,0.10 – 0.20 ,8 – 15 ,0.15 – 0.30 ,Medium
+Taraba,> 0.20 ,> 15 ,> 0.30 ,High
+Adamawa,< 0.10 ,< 8 ,< 0.15 ,Low
+Adamawa,0.10 – 0.20 ,8 – 15 ,0.15 – 0.30 ,Medium
+Adamawa,> 0.20 ,> 15 ,> 0.30 ,High
+Oyo,< 0.10 ,< 8 ,< 0.15 ,Low
+Oyo,0.10 – 0.20 ,8 – 15 ,0.15 – 0.30 ,Medium
+Oyo,> 0.20 ,> 15 ,> 0.30 ,High
+Ogun,< 0.10 ,< 8 ,< 0.15 ,Low
+Ogun,0.10 – 0.20 ,8 – 15 ,0.15 – 0.30 ,Medium
+Ogun,> 0.20 ,> 15 ,> 0.30 ,High
+Ondo,< 0.10 ,< 8 ,< 0.15 ,Low
+Ondo,0.10 – 0.20 ,8 – 15 ,0.15 – 0.30 ,Medium
+Ondo,> 0.20 ,> 15 ,> 0.30 ,High
+Osun,< 0.10 ,< 8 ,< 0.15 ,Low
+Osun,0.10 – 0.20 ,8 – 15 ,0.15 – 0.30 ,Medium
+Osun,> 0.20 ,> 15 ,> 0.30 ,High
+Edo,< 0.10 ,< 8 ,< 0.15 ,Low
+Edo,0.10 – 0.20 ,8 – 15 ,0.15 – 0.30 ,Medium
+Edo,> 0.20 ,> 15 ,> 0.30 ,High
+Cross River,< 0.10 ,< 8 ,< 0.15 ,Low
+Cross River,0.10 – 0.20 ,8 – 15 ,0.15 – 0.30 ,Medium
+Cross River,> 0.20 ,> 15 ,> 0.30 ,High
