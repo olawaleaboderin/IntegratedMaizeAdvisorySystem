@@ -34,15 +34,15 @@ The system applies transparent, **rule-based decision rules** to transform envir
 ---
 
 ## Project File Structure
-.
-├── project.py                 # Main advisory system script
-├── test_project.py            # Unit tests for functions and class methods
-├── maize_varieties.csv        # Dataset of maize varieties
-├── state_profile.csv          # Agro-ecological zone information per state
-├── climate_monthly.csv        # Monthly climate data per state
-├── soil_state.csv             # Soil fertility levels per state
-├── requirements.txt           # Python dependencies
-└── README.md                  # Project documentation
+.  
+├── project.py                 
+├── test_project.py            
+├── maize_varieties.csv        
+├── state_profile.csv         
+├── climate_monthly.csv        
+├── soil_state.csv              
+├── requirements.txt           
+└── README.md                  
 
 
 ### `project.py`
@@ -85,16 +85,17 @@ This file contains data on 85 maize varieties released in Nigeria. Each variety 
    `cd python_project`
 
 2.  (Optional) Create and activate a virtual environment:
-    `python -m venv venv`
-    `source venv/bin/activate`   # macOS/Linux
-    `venv\Scripts\activate`      # Windows
 
-3.  Install dependencies:
+    `python -m venv venv`. 
+    `source venv/bin/activate`   # macOS/Linux. 
+    `venv\Scripts\activate`      # Windows. 
+
+3.  Install dependencies:  
     `pip install -r requirements.txt`
 
-4.  Running the Advisory System:
-    `python project.py`
-    **Note: All datasets must be located in the project root directory.**   
+4.  Running the Advisory System:  
+    `python project.py`. 
+    **Note: All datasets must be located in the project root directory.**     
     The system is configured in the `main()` function of `project.py`. Users can modify:
 
     - `SELECTED_STATE` – The Nigerian state for the advisory report (e.g., `"Oyo"`).  
