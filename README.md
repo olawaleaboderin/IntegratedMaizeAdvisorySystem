@@ -86,19 +86,23 @@ This file contains data on 85 maize varieties released in Nigeria. Each variety 
 1. Clone the repository:  
    
    `git clone <repository_url>`
+
    `cd python_project`
 
 2.  (Optional) Create and activate a virtual environment:
 
-    `python -m venv venv`. 
-    `source venv/bin/activate`   # macOS/Linux. 
+    `python -m venv venv`
+
+    `source venv/bin/activate`   # macOS/Linux
+
     `venv\Scripts\activate`      # Windows. 
 
 3.  Install dependencies:  
     `pip install -r requirements.txt`
 
 4.  Running the Advisory System:  
-    `python project.py`. 
+    `python project.py`
+    
     **Note: All datasets must be located in the project root directory.**     
     The system is configured in the `main()` function of `project.py`. Users can modify:
 
