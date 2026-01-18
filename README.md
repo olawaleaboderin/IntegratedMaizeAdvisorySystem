@@ -73,7 +73,7 @@ This file contains data on 85 maize varieties released in Nigeria. Each variety 
 ### Setup
 1. Clone the repository:  
    
-   `git clone <repository_url>`
+   `git clone https://github.com/olawaleaboderin/IntegratedMaizeAdvisorySystem.git`
 
    `cd python_project`
 
