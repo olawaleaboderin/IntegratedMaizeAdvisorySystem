@@ -68,18 +68,6 @@ This file contains data on 85 maize varieties released in Nigeria. Each variety 
 
 ---
 
-## Testing & Validation
-- Automated tests are implemented using **pytest**.
-- Tests can be executed by running:
-
-  `pytest test_project.py`
-
-- The tests cover **top-level functions** (climate classification, risk assessment, fertilizer recommendation, formatting utilities) and **class methods** (soil fertility validation, maize variety recommendation).
-- Deterministic test cases ensure correct outputs under known conditions.
-- Error handling is also validated.
-
----
-
 ## How to Run the Project
 
 ### Setup
@@ -119,6 +107,17 @@ The system generates a **console-based report** with the following sections:
 - **Irrigation Guidance:** Suggests frequency and intensity based on climate and drought risk.
 - **Pest/Disease Advice:** Provides monitoring and intervention recommendations according to assessed risk.
 - **Recommended Maize Varieties:** Detailed information on top-ranked varieties, including maturity group, stress tolerance traits, yield potential, and grain type.
+
+---
+## Testing & Validation
+- Automated tests are implemented using **pytest**.
+- Tests can be executed by running:
+
+  `pytest test_project.py`
+
+- The tests cover **top-level functions** (climate classification, risk assessment, fertilizer recommendation, formatting utilities) and **class methods** (soil fertility validation, maize variety recommendation).
+- Deterministic test cases ensure correct outputs under known conditions.
+- Error handling is also validated.
 
 ---
 
