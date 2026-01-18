@@ -69,10 +69,14 @@ This file contains data on 85 maize varieties released in Nigeria. Each variety 
 ---
 
 ## Testing & Validation
-- Automated tests implemented using **pytest**.
-- Tests cover **top-level functions** (climate classification, risk assessment, fertilizer recommendation, formatting utilities) and **class methods** (soil fertility validation, maize variety recommendation).
+- Automated tests are implemented using **pytest**.
+- Tests can be executed by running:
+
+  `pytest test_project.py`
+
+- The tests cover **top-level functions** (climate classification, risk assessment, fertilizer recommendation, formatting utilities) and **class methods** (soil fertility validation, maize variety recommendation).
 - Deterministic test cases ensure correct outputs under known conditions.
-- Error handling is validated, including invalid soil fertility levels.
+- Error handling is also validated.
 
 ---
 
